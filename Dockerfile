@@ -1,7 +1,7 @@
 # My custom Ubuntu
 FROM ubuntu:latest
 
-#Comment Test 1
+#Hello vBrownbag Folks!
 
 MAINTAINER Byron Schaller
 
